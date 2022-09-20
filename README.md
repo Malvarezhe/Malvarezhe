@@ -1,16 +1,17 @@
+![Header](https://user-images.githubusercontent.com/106354407/191362064-74f5cae3-c4b5-4448-9790-c48b6f92d027.png)
 
-![Header image](https://user-images.githubusercontent.com/106354407/191322193-3153f409-285b-4ce6-bfcc-c7ec54e1e4ca.png)
 
-Soy un Ingeniero Electrónico, apasionado por la tecnología, actual estudiante de desarrollo web. Estoy aprendiendo a manejar diferentes lenguajes de programación y tecnologías como HTML y CCS, JavaScript, Java y Python. Me gusta mucho el desarrollo web y las increibles cosas que puedes hacer en esta rama. Quiero enfocar mi carrera en este campo e iniciar mi vida laboral aportando mi conocimeinto y aprendiendo nuevos lenguajes que me permitan brindar soluciones efectivas y mejor calidad de vida a las personas. 
+Soy un Ingeniero Electrónico, apasionado por la tecnología, actual estudiante de desarrollo web. Estoy aprendiendo a manejar diferentes lenguajes de programación y tecnologías como HTML y CCS, JavaScript, Java y Python. Me gusta mucho el desarrollo web y las increíbles cosas que puedes hacer en esta rama. Quiero enfocar mi carrera en este campo e iniciar mi vida laboral aportando mi conocimiento y aprendiendo nuevos lenguajes que me permitan brindar soluciones efectivas y mejor calidad de vida a las personas.
 
 ---
 
 - 🌱 Actualmente estoy aprendiendo HTML, CSS y Javascript.
 - 🔭 Trabajo en la creación de aplicativos y sitios web a modo de práctica para agregarlos a mi portafolio personal, esto me permite aprender nuevas tecnologías y perfeccionar mi conocimiento.
-- 😀 Me gusta jugar video juegos en el tiempo libre, ver peliculas y escuchar musica. 
+- 😀 Me gusta jugar video juegos en el tiempo libre, ver películas y escuchar música. 
 - 👯 Colaboro con compañeros de estudio en la realización de un proyecto propuesto como reto final de ciclo de mis estudios actuales.  
-- 💬 Estoy en una etapa continua de aprendizaje, pero si tienes preguntas o dudas respecto a algún tema de interés comun en la que pueda ayudarte lo puedes hacer. 
-- ⚡ Fun fact: My first line of code was "Hello World!"
+- 💬 Estoy en una etapa continua de aprendizaje, pero si tienes preguntas o dudas respecto a algún tema de interés común en la que pueda ayudarte lo puedes hacer. 
+- ⚡ Dato: Mi primera línea de código fue "Hello World!"
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
