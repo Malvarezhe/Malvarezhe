@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark)
 
+#### Thanks for visiting 😉
+![VisitorCount](https://profile-counter.glitch.me/Malvarezhe/count.svg)
+
+⭐️ From [Malvarezhe](https://github.com/Malvarezhe)
 
 
