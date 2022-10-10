@@ -13,14 +13,14 @@ Soy un Ingeniero Electrónico, apasionado por la tecnología, actual estudiante 
 - ⚡ Dato: Mi primera línea de código fue "Hello World!"
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="500px">
 
 ### Stats acerca de mi:
 | Github Stats | Top Languages |
 | --- | --- |
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malvarezhe&theme=radical)<img src="https://github.com/Malvarezhe" alt="" style="float: left; margin-right: 10px;" width="300px" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malvarezhe&theme=vision-friendly-dark&langs_count=8)](https://github.com/Malvarezhe/github-readme-stats)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="500px">
 
 ### Contáctame:
 
