@@ -5,7 +5,7 @@ Soy un Ingeniero Electrónico, apasionado por la tecnología, actual estudiante 
 
 ---
 
-- 🌱 Actualmente estoy aprendiendo HTML, CSS y Javascript.
+- 🌱 Actualmente estoy aprendiendo Javascript y el Stack MERN.
 - 🔭 Trabajo en la creación de aplicativos y sitios web a modo de práctica para agregarlos a mi portafolio personal, esto me permite aprender nuevas tecnologías y perfeccionar mi conocimiento.
 - 😀 Me gusta jugar video juegos en el tiempo libre, ver películas y escuchar música. 
 - 👯 Colaboro con compañeros de estudio en la realización de un proyecto propuesto como reto final de ciclo de mis estudios actuales.  
